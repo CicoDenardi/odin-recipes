@@ -1,0 +1,27 @@
+.changepage {
+    font-size: 36px;
+    text-align: center;
+    color: yellow;
+    background-color: green;
+    font-weight: 900;
+    font-family: Luminari, fantasy, "Times New Roman";
+}
+
+.opening {
+    font-size: 36px;
+    text-align: center;
+    color: yellow;
+    background-color: green;
+    font-weight: 900;
+    font-family: Luminari, fantasy, "Times New Roman";    
+}
+
+.image {
+    width: 650px;
+    height: auto;
+}
+
+.imagetwo {
+    width: 450px;
+    height: auto;
+}
